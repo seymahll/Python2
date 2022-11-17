@@ -39,4 +39,4 @@ print(f"{name} {age} yasinda ve {company}'da calisiyor")
 name = 'Hilal'
 age = "27"
 company = 'Etiya' 
-print(name + age + company)
+print(name + age + company) 
